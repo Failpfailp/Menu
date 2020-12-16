@@ -23,5 +23,6 @@ What are you waiting for? Join me on [Discord.](https://discord.gg/NZwwSUx8es)
 
 
 ### Menu Discord.js
+- [Code javascript glitch.com](https://github.com/Failpfailp/Code-Javascript-Glitch.com)
 - [Hosting bot 24/7](https://github.com/Failpfailp/Hosting-Bot-24-7)
 - [HOW TO AUTO REMOVE THE COMMAND CHAT](https://github.com/Failpfailp/HOW-TO-AUTO-REMOVE-THE-COMMAND-CHAT)
