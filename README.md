@@ -20,3 +20,8 @@
 
 ## Discord Bot
 What are you waiting for? Join me on [Discord.](https://discord.gg/NZwwSUx8es)
+
+
+### Menu Discord.js
+- [Hosting bot 24/7](https://github.com/Failpfailp/Hosting-Bot-24-7)
+- [HOW TO AUTO REMOVE THE COMMAND CHAT](https://github.com/Failpfailp/HOW-TO-AUTO-REMOVE-THE-COMMAND-CHAT)
